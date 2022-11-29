@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tchinmay47" target="blank"><img src="https://img.shields.io/twitter/follow/tchinmay47?logo=twitter&style=for-the-badge" alt="tchinmay47" /></a> </p>
 
-- 👨‍💻 All of my projects are available [in my Resume](in my Resume)
+- 👨‍💻 All of my projects are available <a href="https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link" target="blank">here</a>
 
 - 📫 How to reach me **tchinmay47@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link](https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link" target="blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
