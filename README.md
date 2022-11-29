@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chinmay Tanawade</h1>
 <h3 align="center">I'm an aspiring data analyst with a passion for exploring and understanding data. I'm excited to be part of the data science and analytics community, and look forward to learning and growing in the field. I'm always looking for new opportunities to utilize my data analysis skills, and am open to collaboration with like-minded individuals.</h3>
 
-<img align="right" alt="coding" width="400" src="https://iili.io/HKQ203N.md.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/VJovr7xzRFu7SgBFrf/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tchinmay47&label=Profile%20views&color=0e75b6&style=flat" alt="tchinmay47" /> </p>
 
