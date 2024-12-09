@@ -5,18 +5,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tchinmay47&label=Profile%20views&color=0e75b6&style=flat" alt="tchinmay47" /> </p>
 
-<p align="left"> <a href="https://twitter.com/tchinmay47" target="blank"><img src="https://img.shields.io/twitter/follow/tchinmay47?logo=twitter&style=for-the-badge" alt="tchinmay47" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tchinmay47" target="_blank"><img src="https://img.shields.io/twitter/follow/tchinmay47?logo=twitter&style=for-the-badge" alt="tchinmay47" /></a> </p>
 
-- 👨‍💻 All of my projects are available <a href="https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link" target="blank">here</a>
+- 👨‍💻 All of my projects are available <a href="https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link" target="_blank">here</a>
 
 - 📫 How to reach me **tchinmay47@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1J86JjpgSbnAc9IYTsXIHEIh5CpyeC962/view?usp=share_link" target="blank">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1zEqtO93SGlRsGGp0y2p0gyXr1GLg0BMu/view?usp=sharing" target="_blank">here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tchinmay47" target="blank"><img align="center" src="https://iili.io/HfCeRWu.png" alt="tchinmay47" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/chinmaytanawade" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="chinmaytanawade" height="40" width="40" /></a>
+<a href="https://twitter.com/tchinmay47" target="_blank"><img align="center" src="https://iili.io/HfCeRWu.png" alt="tchinmay47" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/chinmaytanawade" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="chinmaytanawade" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
